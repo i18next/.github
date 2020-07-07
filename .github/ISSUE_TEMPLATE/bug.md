@@ -33,6 +33,6 @@ A clear and concise description of what you expected to happen.
 ## Your Environment
 
 - *runtime version*: i.e. node v14, deno, browser xy
-- *i18next version*: >=19.0.0
+- *i18next version*: i.e. 19.5.3
 - *os*: Mac, Windows, Linux
 - *any other relevant information*
