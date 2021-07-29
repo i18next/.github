@@ -1,5 +1,5 @@
 ---
-name: 🐛 Documentation issue
+name: 📄 Documentation issue
 about: Create a documentation report to help us improve
 ---
 
