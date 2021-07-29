@@ -10,4 +10,8 @@ Bug fixes and new features should include tests.
 - [ ] only relevant code is changed (make a diff before you submit the PR)
 - [ ] run tests `npm run test`
 - [ ] tests are included
-- [ ] documentation is changed or added
+
+#### Checklist (for documentation change)
+
+- [ ] only relevant documentation part is changed (make a diff before you submit the PR)
+- [ ] motivation/reason is provided
