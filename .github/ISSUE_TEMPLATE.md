@@ -6,7 +6,7 @@ Search also on [StackOverflow](https://stackoverflow.com/) or similar.
 
 #### Are you sure this is an issue with i18next or are you just looking for some help?
 
-Issues should only be posted in this repository after you have been able to reproduce them and confirm that they are a bug or incorrect/missing information in the [docs](https://www.i18next.com/) [here](https://www.i18next.com/) or [here for react-i18next](https://react.i18next.com/).
+Issues should only be posted in this repository after you have been able to [reproduce](https://stackoverflow.com/help/minimal-reproducible-example) them and confirm that they are a bug or incorrect/missing information in the [docs](https://www.i18next.com/) [here](https://www.i18next.com/) or [here for react-i18next](https://react.i18next.com/).
 
 For all other questions, requests, help resolving an issue, or if you are not sure if this is the right place, please do not open an issue here. Instead, ask a question on [StackOverflow](https://stackoverflow.com/) or similar.
 
