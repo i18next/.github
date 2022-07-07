@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: 💬 Questions / Help
     url: https://stackoverflow.com/search?q=i18next
-    about: If you have questions, please check https://www.i18next.com/ or https://react.i18next.com/ or https://stackoverflow.com/search?q=i18next or similar.
+    about: If you have questions, please check https://www.i18next.com/ or https://react.i18next.com/ or https://github.com/i18next/next-i18next or https://stackoverflow.com/search?q=i18next or similar.
