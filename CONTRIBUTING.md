@@ -3,9 +3,19 @@
 Thank you for taking the time. i18next is installed tens of millions of times a week, so every change is code we keep,
 test and secure for a long time, and every release reaches all of those projects. That is why we are picky.
 
+## Issue first
+
+Please open an issue before a pull request. When a maintainer confirms in the issue that we take it (the issue gets the
+`confirmed` label), a pull request is welcome. A pull request without a confirmed issue is closed with thanks, without
+a review. Except:
+
+- security reports: privately, see [SECURITY.md](SECURITY.md), never in a public issue or pull request
+- a regression: a pull request that names the version that broke it may come right away
+- typo and documentation fixes
+
 ## What we merge
 
-- a fix for a problem a real app hit: an issue with a reproduction, or the pull request says which app or setup
+- a fix for a problem a real app hit: an issue with a reproduction that names the app or setup
 - a regression: something that worked in an earlier version
 - a security fix (report it privately first, see [SECURITY.md](SECURITY.md))
 - a change that makes the code simpler: it removes more than it adds
@@ -25,7 +35,8 @@ The documentation of i18next, react-i18next, next-i18next and i18next-cli lives 
 
 ## AI-assisted contributions
 
-Welcome, with the same bar as any other: say so in the pull request, read the diff yourself and run the tests.
+Welcome, with the same bar as any other: say so in the issue and the pull request, read the diff yourself and run the
+tests. An agent can open a pull request in minutes; that is why the issue comes first.
 
 ## Developer's Certificate of Origin
 

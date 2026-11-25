@@ -6,11 +6,12 @@ A security issue? Please don't open a pull request; see SECURITY.md.
 Documentation lives in https://github.com/i18next/www
 -->
 
-#### Which app hit this?
+#### Confirmed issue
 
 <!--
-Link the issue with a reproduction, or describe the app or setup where the problem happened.
-A fix for a case nobody hit in a real app is usually closed with thanks: every fix is code we keep forever.
+Link the issue a maintainer confirmed (label `confirmed`): Fixes #...
+Without one, the pull request is closed with thanks, without a review: please open an issue first.
+Not needed for a regression (name the version that broke it) or a typo or documentation fix.
 -->
 
 #### Checklist

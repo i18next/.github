@@ -33,9 +33,10 @@ A clear and concise description of what you expected to happen.
 // Paste the expected results here
 ```
 
-## Where did you hit this?
+## Which app hit this?
 
-Your app or setup: framework, bundler, backends and plugins. It tells us who is affected.
+Your app or setup: framework, bundler, backends and plugins. A problem a real app hit is what we fix; please don't open
+a pull request before a maintainer confirmed this issue.
 
 ## Your Environment
 
