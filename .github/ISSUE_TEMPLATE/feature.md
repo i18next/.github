@@ -5,9 +5,9 @@ about: Submit a proposal for a new feature
 ---
 
 <!--
-Before you submit an issue, please check the docs — [i18next](https://www.i18next.com/), [react-i18next](https://react.i18next.com/), [next-i18next](https://github.com/i18next/next-i18next) — and search existing issues and [StackOverflow](https://stackoverflow.com/questions/tagged/i18next) for any questions or problems you have getting started with i18next.
+Before you open an issue, please check the docs ([i18next](https://www.i18next.com), [react-i18next](https://www.i18next.com/react), [next-i18next](https://www.i18next.com/next), [i18next-cli](https://www.i18next.com/cli)) and search the existing issues and [StackOverflow](https://stackoverflow.com/questions/tagged/i18next).
 
-**Please read this entire template before posting any issue. If you ignore these instructions and post an issue here that does not follow the instructions, your issue might be closed, locked.**
+**Please fill in this whole template.**
 -->
 
 ## 🚀 Feature Proposal
@@ -16,7 +16,11 @@ A clear and concise description of what the feature is.
 
 ## Motivation
 
-Please outline the motivation for the proposal.
+Which app needs it, and why can't it be done today?
+
+## Can it be a plugin or code in your app?
+
+A backend, language detector, post-processor or formatter can be written against the [plugin interfaces](https://www.i18next.com/principles/plugins) and kept in your own repository; your coding agent writes one in minutes. If yours can, it probably does not need to be in i18next. New options and modules are added only for a broad need.
 
 ## Example
 

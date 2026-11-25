@@ -1,4 +1,33 @@
-# Developer's Certificate of Origin
+# Contributing
+
+Thank you for taking the time. i18next is installed tens of millions of times a week, so every change is code we keep,
+test and secure for a long time, and every release reaches all of those projects. That is why we are picky.
+
+## What we merge
+
+- a fix for a problem a real app hit: an issue with a reproduction, or the pull request says which app or setup
+- a regression: something that worked in an earlier version
+- a security fix (report it privately first, see [SECURITY.md](SECURITY.md))
+- a change that makes the code simpler: it removes more than it adds
+
+A fix for a case nobody hit, a new option or a new module is usually closed with thanks. A backend, language detector,
+post-processor or formatter of your own takes your coding agent a few minutes against the
+[plugin interfaces](https://www.i18next.com/principles/plugins), and it can live in your own repository.
+
+## Releases
+
+Fixes are released together, usually once a week. Security fixes and regressions are released at once.
+
+## Documentation
+
+The documentation of i18next, react-i18next, next-i18next and i18next-cli lives in
+[i18next/www](https://github.com/i18next/www).
+
+## AI-assisted contributions
+
+Welcome, with the same bar as any other: say so in the pull request, read the diff yourself and run the tests.
+
+## Developer's Certificate of Origin
 
 By making a contribution to this project, I certify that:
 

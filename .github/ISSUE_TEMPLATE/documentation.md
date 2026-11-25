@@ -4,28 +4,17 @@ about: Create a documentation report to help us improve
 ---
 
 <!--
-### Do you have a documentation issue?
-Ok, then describe it and provide some motivation on why this should be changed.
+The documentation of i18next, react-i18next, next-i18next and i18next-cli (www.i18next.com) lives in
+https://github.com/i18next/www. A documentation issue opened there, or a pull request to the page, is the quickest way.
 
+A technical issue? Please open it in the repository of the package, like [i18next](https://github.com/i18next/i18next/issues/new/choose), [react-i18next](https://github.com/i18next/react-i18next/issues/new/choose) or [next-i18next](https://github.com/i18next/next-i18next/issues/new/choose).
 
-### Do you have a technical/code issue?
-Please open an issue in the main [i18next repository](https://github.com/i18next/i18next/issues/new/choose) or in an another appropriate [i18next code repository](https://github.com/i18next/), like [react-i18next](https://github.com/i18next/react-i18next/issues/new/choose), like [next-i18next](https://github.com/i18next/next-i18next/issues/new/choose).
-
-#### You have already researched for similar issues?
-It's not uncommon that somebody already opened an issue or in best case it's already fixed but not merged. That's the reason why you should [search](https://github.com/i18next/i18next/issues) at first before submitting a new one.
-Search also on [StackOverflow](https://stackoverflow.com/questions/tagged/i18next) or similar.
-
-#### Are you sure this is an issue with i18next or are you just looking for some help?
-Issues should only be posted in this repository after you have been able to reproduce them and confirm that they are a bug or incorrect/missing information in the docs: [i18next](https://www.i18next.com/), [react-i18next](https://react.i18next.com/) or [next-i18next](https://github.com/i18next/next-i18next).
-
-For all other questions, requests, help resolving an issue, or if you are not sure if this is the right place, please do not open an issue here. Instead, ask a question on [StackOverflow](https://stackoverflow.com/questions/tagged/i18next) or similar.
-
-If you have issues with the [i18next.com](https://www.i18next.com) site, please open an issue [here](https://github.com/i18next/i18next-gitbook/issues) or [here for react.i18next.com](https://github.com/i18next/react-i18next-gitbook/issues) or [here for next-i18next](https://github.com/i18next/next-i18next-gitbook/issues).
+A question? Ask on [StackOverflow](https://stackoverflow.com/questions/tagged/i18next).
 -->
 
 ## Documentation issue
 
-A clear and concise description of what the issue is.
+A clear and concise description of what the issue is, and the page it is on.
 
 ## Motivation
 

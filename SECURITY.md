@@ -4,7 +4,7 @@
 
 Please do **not** report security vulnerabilities through public GitHub issues.
 
-Email **support@locize.com** ([Locize](https://www.locize.com) is the company of the i18next maintainers) — vulnerability reports are treated with priority.
+Email **support@locize.com** ([Locize](https://www.locize.com) is the company of the i18next maintainers); vulnerability reports are treated with priority.
 
 Where enabled, you can also use GitHub's private vulnerability reporting: open the **Security** tab of the affected repository and click **Report a vulnerability**.
 
